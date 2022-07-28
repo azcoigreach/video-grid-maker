@@ -1,3 +1,4 @@
 # Development Environment
+.vs/
 venv/
 grid*.png
